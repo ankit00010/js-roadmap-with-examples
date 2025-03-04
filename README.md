@@ -31,5 +31,5 @@ It's designed to help you master JavaScript concepts from **basic to advanced** 
 
 ## 📂 How to use:
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/js-roadmap-with-examples.git
+   ```bash 
+   git clone https://github.com/ankit00010/js-roadmap-with-examples.git
