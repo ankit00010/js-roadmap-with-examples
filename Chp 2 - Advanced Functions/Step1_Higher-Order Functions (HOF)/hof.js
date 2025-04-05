@@ -137,14 +137,14 @@ function throttle(func, limit) {
   return function (...args) {
     if (!isThrottle) {
       func.apply(this, args);
-      isThrottle = true;
+      isThrottle = true;  
       setTimeout(() => {
         isThrottle = false;
       }, limit);
     }
   };
 }
-
+ 
 function handleScroll() {
   console.log("Scrolling...");
 }
